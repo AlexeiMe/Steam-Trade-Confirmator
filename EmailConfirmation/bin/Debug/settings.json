@@ -1,0 +1,7 @@
+﻿{
+	"Mail":"example@gmail.com",
+	"Password":"password",
+	"IMAP":"imap.gmail.com",
+	"Port":993,
+	"UpdateTime":20
+}
